@@ -1,0 +1,11 @@
+Metric,Value
+Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets= 20 ],0.48390789272824325
+Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets= 20 ],0.669343195952764
+Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets= 20 ],0.5598391662132582
+Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets= 20 ],0.5349382663488259
+Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets= 20 ],0.49136285409937275
+Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 20 ],0.5361380798274002
+Average Recall     (AR) @[ IoU=0.50      | area=   all | maxDets= 20 ],0.6925566343042071
+Average Recall     (AR) @[ IoU=0.75      | area=   all | maxDets= 20 ],0.6084142394822006
+Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets= 20 ],0.5486707566462167
+Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets= 20 ],0.5546365914786967
